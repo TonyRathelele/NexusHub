@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Learning Hub",
+  "description": "A professional note-sharing and learning platform featuring AI-powered summarization, study quiz generation, and collaborative resource management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
